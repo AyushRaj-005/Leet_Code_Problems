@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0001-two-sum) |
+| [0204-count-primes](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -39,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0010-regular-expression-matching) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
