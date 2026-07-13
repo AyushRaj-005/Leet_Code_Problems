@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0042-trapping-rain-water) |
 | [0204-count-primes](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0042-trapping-rain-water) |
 ## Enumeration
 |  |
 | ------- |
@@ -66,6 +68,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0541-reverse-string-ii](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0541-reverse-string-ii) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
