@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0014-longest-common-prefix) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0541-reverse-string-ii) |
 ## Sliding Window
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0541-reverse-string-ii) |
 ## Stack
 |  |
