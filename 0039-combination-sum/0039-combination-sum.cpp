@@ -15,7 +15,7 @@ public:
 
         for (int i = index; i < candidates.size(); i++) {
             temp.push_back(candidates[i]);
-            solve(candidates, target - candidates[i], i); 
+            solve(candidates, target - candidates[i], i); // same element reuse
             temp.pop_back();
         }
     }
