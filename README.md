@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0541-reverse-string-ii) |
 ## Sliding Window
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0541-reverse-string-ii) |
 ## Stack
