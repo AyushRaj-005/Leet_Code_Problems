@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0263-ugly-number) |
 ## Recursion
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0541-reverse-string-ii) |
 ## Sliding Window
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0088-merge-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
