@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0042-trapping-rain-water) |
 | [0204-count-primes](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0204-count-primes) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0345-reverse-vowels-of-a-string) |
