@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
