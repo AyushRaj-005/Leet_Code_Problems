@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0541-reverse-string-ii) |
 ## Sliding Window
 |  |
@@ -125,12 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
