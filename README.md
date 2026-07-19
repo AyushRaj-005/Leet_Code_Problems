@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0409-longest-palindrome) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
