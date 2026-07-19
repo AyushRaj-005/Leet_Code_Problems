@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0042-trapping-rain-water) |
 | [0204-count-primes](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0204-count-primes) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0039-combination-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
