@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -110,15 +113,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
