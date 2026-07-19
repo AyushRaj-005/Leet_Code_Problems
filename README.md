@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0541-reverse-string-ii) |
 ## Sliding Window
 |  |
@@ -134,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0258-add-digits) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
