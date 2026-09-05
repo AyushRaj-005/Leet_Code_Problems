@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0042-trapping-rain-water) |
+| [0322-coin-change](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
@@ -170,4 +172,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0509-fibonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
