@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0724-find-pivot-index) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AyushRaj-005/Leet_Code_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
